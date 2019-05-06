@@ -1,4 +1,4 @@
-# PySocial | http://nolanhepworth.me
+# StockMarket-Fantasy | http://nolanhepworth.me
 * A social application built using the flask framework.
 * Project status: working/prototype
 
